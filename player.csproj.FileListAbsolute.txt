@@ -1,0 +1,10 @@
+G:\parmis\Doing-project\player\player\bin\Debug\player.exe.config
+G:\parmis\Doing-project\player\player\bin\Debug\player.exe
+G:\parmis\Doing-project\player\player\bin\Debug\player.pdb
+G:\parmis\Doing-project\player\player\obj\Debug\player.csprojAssemblyReference.cache
+G:\parmis\Doing-project\player\player\obj\Debug\player.Form1.resources
+G:\parmis\Doing-project\player\player\obj\Debug\player.Properties.Resources.resources
+G:\parmis\Doing-project\player\player\obj\Debug\player.csproj.GenerateResource.cache
+G:\parmis\Doing-project\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+G:\parmis\Doing-project\player\player\obj\Debug\player.exe
+G:\parmis\Doing-project\player\player\obj\Debug\player.pdb
